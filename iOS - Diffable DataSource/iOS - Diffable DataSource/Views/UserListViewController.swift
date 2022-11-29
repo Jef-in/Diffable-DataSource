@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  UserListViewController.swift
 //  iOS - Diffable DataSource
 //
 //  Created by Jefin on 29/11/22.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class UserListViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
